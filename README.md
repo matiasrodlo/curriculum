@@ -9,15 +9,25 @@
 | Programming in Python             | Harvard                            | 15 Hours | Programming                | [Watch here](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V) |
 | Mobile Software Engineering       | Harvard                            | 16 Hours | Software Engineering       | [Watch here](https://www.youtube.com/playlist?list=PL7ippCC9NZurw6hLeurbk_SWUJ7PHN5-u) |
 | Web Programming                   | Harvard                            | 14 Hours | Web Development            | [Watch here](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu) |
-| Internet History and Technology | University of Michigan        | 10 Hours | Technology & Security      | [Watch here](https://www.youtube.com/watch?v=47NRaBVxgVM)                   |
-| Introduction to Electronics       | LWT College  | 16 Hours | Electronics & Hardware     | [Watch here](https://www.youtube.com/watch?v=nb4ovfwqup8)                            |
+| Internet History                  | UMichigan                         | 10 Hours | Technology & Security      | [Watch here](https://www.youtube.com/watch?v=47NRaBVxgVM)                   |
+| Introduction to Electronics       | LWT College                       | 16 Hours | Electronics & Hardware     | [Watch here](https://www.youtube.com/watch?v=nb4ovfwqup8)                            |
 | Artificial Intelligence           | Harvard                            | 11 Hours | Artificial Intelligence     | [Watch here](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm) |
-| Arduino R4 WiFi                   | Paul McWhorter                     | 14 Hours | Electronics & Hardware     | [Watch here](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex) |
-
-## Certifications
-
-| Certification                     | Institution                        | Duration | Category                   | Link                                                                 |
-|-----------------------------------|------------------------------------|----------|----------------------------|----------------------------------------------------------------------|
+| Arduino R4 WiFi                  | Paul McWhorter                     | 14 Hours | Electronics & Hardware     | [Watch here](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex) |
 | GitHub Foundations Certification   | Exampro                            | 10 Hours | Development                | [Watch here](https://youtu.be/Jdc0i7RcBv8?si=itnr_9u5M1mBEgU4)     |
 | AWS Cloud Practitioner             | Exampro                            | 14 Hours | Cloud Computing            | [Watch here](https://www.youtube.com/watch?v=SOTamWNgDKc)          |
 | AWS Certified Solutions Architect   | Exampro                            | 11 Hours | Cloud Computing            | [Watch here](https://www.youtube.com/watch?v=Ia-UEYYR44s)          |
+
+## Psychology and Cognitive Science
+
+| Course Name                      | Institution                        | Duration | Category                     | Link                                                                 |
+|-----------------------------------|------------------------------------|----------|------------------------------|----------------------------------------------------------------------|
+| The Human Brain                   | MIT                                | 20 Hours | Neuroscience                 | [Watch here](https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP) |
+| Cognitive Psychology              | Brunel University                  | 12 Hours | Psychology                   | [Watch here](https://www.youtube.com/playlist?list=PLWMGRpO3yg6V8rnHZkXjt8S64zMYUfs-K) |
+| Intro to Cognitive Science        | UC Berkeley                        | 21 Hours | Cognitive Science            | [Watch here](https://www.youtube.com/playlist?list=PLaMjLYzDGxvz1oT5gpFiY6rJZnlJ-1Xu-) |
+| Social Psychology                 | UC Berkeley                        | 21 Hours | Psychology                   | [Watch here](https://www.youtube.com/playlist?list=PL82A8739615760555) |
+| Personality and its Transformations| McGill University                 | 25 Hours | Psychology                   | [Watch here](https://www.youtube.com/playlist?list=PL22J3VaeABQBlN8DUor7SKWCwSghcqlY5) |
+| Intimate Relationships            | UC Berkeley                        | 20 Hours | Psychology                   | [Watch here](https://www.youtube.com/playlist?list=PLexCQI5fHYIdeWyOSJBclmFL8i4bkBT4H) |
+| Introduction to Psychology        | Yale                               | 19 Hours | Psychology                   | [Watch here](https://www.youtube.com/playlist?list=PL6A08EB4EEFF3E91F) |
+| Positive Psychology               | Harvard                            | 25 Hours | Psychology                   | [Watch here](https://www.youtube.com/playlist?list=PLg9esVacXkzYczOgcGpf5Iji38-BVQ1zs) |
+| ADHD                              | Russell Barkley                   | 26 Hours | Psychology                   | [Watch here](https://www.youtube.com/playlist?list=PLq7AkHopLIr8_1whMzHjqmamYDWcVcDv6) |
+| Introduction to Linguistics       | MIT                                | 27 Hours | Linguistics                  | [Watch here](https://www.youtube.com/playlist?list=PLUl4u3cNGP63BZGNOqrF2qf_yxOjuG35j) |
