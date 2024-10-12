@@ -8,5 +8,5 @@
 | Web Programming                   | Harvard                            | 14 Hours | Web Development      | [Watch here](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu) |
 | Mobile Software Engineering       | Harvard                            | 16 Hours | Software Engineering | [Watch here](https://www.youtube.com/playlist?list=PL7ippCC9NZurw6hLeurbk_SWUJ7PHN5-u) |
 | Artificial Intelligence           | Harvard                            | 11 Hours | Artificial Intelligence | [Watch here](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm) |
-| Introduction to Electronics       | Lake Washington Technical College  | 16 Hours | Electronics & Hardware | [Watch here](https://www.youtube.com/watch?v=nb4ovfwqup8)                            |
+| Introduction to Electronics       | LWT College                        | 16 Hours | Electronics & Hardware | [Watch here](https://www.youtube.com/watch?v=nb4ovfwqup8)                            |
 | Arduino R4 WiFi                   | Paul McWhorter                     | 14 Hours | Electronics & Hardware | [Watch here](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex) |
