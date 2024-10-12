@@ -40,3 +40,6 @@
 | Positive Psychology               | Harvard                            | 25 Hours | Psychology                   | [Watch here](https://www.youtube.com/playlist?list=PLg9esVacXkzYczOgcGpf5Iji38-BVQ1zs) |
 | ADHD                              | Russell Barkley                   | 26 Hours | Psychology                   | [Watch here](https://www.youtube.com/playlist?list=PLq7AkHopLIr8_1whMzHjqmamYDWcVcDv6) |
 | Introduction to Linguistics       | MIT                                | 27 Hours | Linguistics                  | [Watch here](https://www.youtube.com/playlist?list=PLUl4u3cNGP63BZGNOqrF2qf_yxOjuG35j) |
+| Neuroplasticity and Behavior Change| Stanford                          | 32 Hours | Psychology                   | [Watch here](https://www.youtube.com/playlist?list=PLPNW_gerXa4NKRk-x4U-Cuza8FPV8dx5x) |
+| Mental Health                     | Stanford                          | 12 Hours | Psychology                   | [Watch here](https://www.youtube.com/playlist?list=PLPNW_gerXa4PKMqne6CTj7tWvUvObWA3s) |
+| ADHD, Drive and Motivation        | Stanford                          | 19 Hours | Psychology                   | [Watch here](https://www.youtube.com/playlist?list=PLPNW_gerXa4Nt_vwLUY6Nl1oG0UfsW5VM) |
