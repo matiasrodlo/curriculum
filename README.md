@@ -13,9 +13,9 @@
 | Introduction to Electronics       | LWT College                       | 16 Hours | Electronics & Hardware     | [Watch here](https://www.youtube.com/watch?v=nb4ovfwqup8)                            |
 | Artificial Intelligence           | Harvard                            | 11 Hours | Artificial Intelligence     | [Watch here](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm) |
 | Arduino R4 WiFi                  | Paul McWhorter                     | 14 Hours | Electronics & Hardware     | [Watch here](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex) |
-| GitHub Foundations Certification   | Exampro                            | 10 Hours | Development                | [Watch here](https://youtu.be/Jdc0i7RcBv8?si=itnr_9u5M1mBEgU4)     |
+| GitHub Foundations   | Exampro                            | 10 Hours | Development                | [Watch here](https://youtu.be/Jdc0i7RcBv8?si=itnr_9u5M1mBEgU4)     |
 | AWS Cloud Practitioner             | Exampro                            | 14 Hours | Cloud Computing            | [Watch here](https://www.youtube.com/watch?v=SOTamWNgDKc)          |
-| AWS Certified Solutions Architect   | Exampro                            | 11 Hours | Cloud Computing            | [Watch here](https://www.youtube.com/watch?v=Ia-UEYYR44s)          |
+| AWS Solutions Architect   | Exampro                            | 11 Hours | Cloud Computing            | [Watch here](https://www.youtube.com/watch?v=Ia-UEYYR44s)          |
 
 ## Psychology and Cognitive Science
 
