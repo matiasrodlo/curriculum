@@ -13,9 +13,18 @@
 | Introduction to Electronics       | LWT College                       | 16 Hours | Electronics & Hardware     | [Watch here](https://www.youtube.com/watch?v=nb4ovfwqup8)                            |
 | Artificial Intelligence           | Harvard                            | 11 Hours | Artificial Intelligence     | [Watch here](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm) |
 | Arduino R4 WiFi                  | Paul McWhorter                     | 14 Hours | Electronics & Hardware     | [Watch here](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex) |
-| GitHub Foundations   | Exampro                            | 10 Hours | Development                | [Watch here](https://youtu.be/Jdc0i7RcBv8?si=itnr_9u5M1mBEgU4)     |
+| GitHub Foundations Certification   | Exampro                            | 10 Hours | Development                | [Watch here](https://youtu.be/Jdc0i7RcBv8?si=itnr_9u5M1mBEgU4)     |
 | AWS Cloud Practitioner             | Exampro                            | 14 Hours | Cloud Computing            | [Watch here](https://www.youtube.com/watch?v=SOTamWNgDKc)          |
-| AWS Solutions Architect   | Exampro                            | 11 Hours | Cloud Computing            | [Watch here](https://www.youtube.com/watch?v=Ia-UEYYR44s)          |
+| AWS Certified Solutions Architect   | Exampro                            | 11 Hours | Cloud Computing            | [Watch here](https://www.youtube.com/watch?v=Ia-UEYYR44s)          |
+| Introduction to Robotics           | Stanford                          | 18 Hours | Robotics                   | [Watch here](https://www.youtube.com/playlist?list=PL65CC0384A1798ADF) |
+| Deep Learning                      | MIT                               | 11 Hours | Machine Learning           | [Watch here](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) |
+| Mathematics for Computer Science   | MIT                               | 25 Hours | Mathematics                | [Watch here](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) |
+| Machine Learning                   | Stanford                          | 25 Hours | Machine Learning           | [Watch here](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) |
+| Computer Vision                    | Stanford                          | 20 Hours | Computer Vision            | [Watch here](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
+| Database Systems                   | Cornell                           | 25 Hours | Database Management         | [Watch here](https://www.youtube.com/watch?v=4cWkVbC2bNE)          |
+| Advanced Algorithms                | Harvard                           | 25 Hours | Algorithms                 | [Watch here](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) |
+| Meta Learning                      | Stanford                          | 25 Hours | Machine Learning           | [Watch here](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) |
+| Theory of Computation              | MIT                               | 32 Hours | Theory of Computation      | [Watch here](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY) |
 
 ## Psychology and Cognitive Science
 
