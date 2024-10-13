@@ -1,7 +1,3 @@
-This curriculum is organized by course difficulty, starting from beginner to advanced. It includes handpicked online courses from top institutions covering topics in **Computer Science**, **Programming**, **Artificial Intelligence**, and **Psychology & Cognitive Science**.
-
-## Computer Science Curriculum
-
 ### Beginner Level
 
 | Course Name                          | Institution   | Duration | Category               | Link                                                                 |
@@ -24,7 +20,12 @@ This curriculum is organized by course difficulty, starting from beginner to adv
 | Database Systems                      | Cornell       | 25 Hours | Database Management    | [Watch here](https://www.youtube.com/watch?v=4cWkVbC2bNE)            |
 | AWS Certified Solutions Architect     | Exampro       | 11 Hours | Cloud Computing        | [Watch here](https://www.youtube.com/watch?v=Ia-UEYYR44s)            |
 | Introduction to Electronics           | LWT College   | 16 Hours | Electronics & Hardware | [Watch here](https://www.youtube.com/watch?v=nb4ovfwqup8)            |
-| Arduino R4 WiFi                       | Paul McWhorter| 14 Hours | Electronics & Hardware | [Watch here](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex) |
+| Arduino R4 WiFi                      | Paul McWhorter| 14 Hours | Electronics & Hardware | [Watch here](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex) |
+| **Natural Language Processing**       | Stanford      | 25 Hours | Machine Learning       | [Watch here](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) |
+| **Computer Architecture**             | Princeton     | 27 Hours | Computer Science       | [Watch here](https://www.youtube.com/watch?v=9nuAjYRbITQ)            |
+| **Programming Paradigms**             | Stanford      | 22 Hours | Programming            | [Watch here](https://www.youtube.com/playlist?list=PL9D558D49CA734A02) |
+| **Introduction to Probability for CS**| Stanford      | 25 Hours | Mathematics            | [Watch here](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) |
+| **Human-Computer Interaction**        | Vermont       | 25 Hours | Interaction Design     | [Watch here](https://www.youtube.com/playlist?list=PLAuiGdPEdw0hhJ_XZUJrR9OeJoUgB1AiB) |
 
 ### Advanced Level
 
@@ -39,6 +40,10 @@ This curriculum is organized by course difficulty, starting from beginner to adv
 | Advanced Algorithms                   | Harvard       | 25 Hours | Algorithms             | [Watch here](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) |
 | Mathematics for Computer Science      | MIT           | 25 Hours | Mathematics            | [Watch here](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) |
 | Theory of Computation                 | MIT           | 32 Hours | Theory of Computation  | [Watch here](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY) |
+| **Automata and Complexity Theory**    | Stanford      | 11 Hours | Theory of Computation  | [Watch here](https://www.youtube.com/playlist?list=PLoCMsyE1cvdV4CkdIZRKW8lk2BBOW-fbF) |
+| **Operating Systems**                 | UC Berkeley   | 38 Hours | Operating Systems      | [Watch here](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC) |
+| **Brain-Computer Interface**          | UC San Diego  | 9 Hours  | Neuroscience           | [Watch here](https://www.youtube.com/playlist?list=PLbbCsk7MUIGcO_lZMbyymWU2UezVHNaMq) |
+| **Compilers**                         | Stanford      | 14 Hours | Programming            | [Watch here](https://www.youtube.com/playlist?list=PLTsf9UeqkRebOYdw4uqSN0ugRShSmHrzH) |
 
 ---
 
@@ -56,17 +61,19 @@ This curriculum is organized by course difficulty, starting from beginner to adv
 
 | Course Name                          | Institution   | Duration | Category               | Link                                                                 |
 |---------------------------------------|---------------|----------|------------------------|----------------------------------------------------------------------|
-| Cognitive Psychology                  | Brunel University| 12 Hours | Psychology            | [Watch here](https://www.youtube.com/playlist?list=PLWMGRpO3yg6V8rnHZkXjt8S64zMYUfs-K) |
-| Personality and its Transformations   | McGill        | 25 Hours | Psychology             | [Watch here](https://www.youtube.com/playlist?list=PL22J3VaeABQBlN8DUor7SKWCwSghcqlY5) |
-| Intimate Relationships                | UC Berkeley   | 20 Hours | Psychology             | [Watch here](https://www.youtube.com/playlist?list=PLexCQI5fHYIdeWyOSJBclmFL8i4bkBT4H) |
-| Introduction to Linguistics           | MIT           | 27 Hours | Linguistics            | [Watch here](https://www.youtube.com/playlist?list=PLUl4u3cNGP63BZGNOqrF2qf_yxOjuG35j) |
-| Introduction to Cognitive Science     | UC Berkeley   | 21 Hours | Cognitive Science      | [Watch here](https://www.youtube.com/playlist?list=PLaMjLYzDGxvz1oT5gpFiY6rJZnlJ-1Xu-) |
-| ADHD                                  | Russell Barkley| 26 Hours | Psychology             | [Watch here](https://www.youtube.com/playlist?list=PLq7AkHopLIr8_1whMzHjqmamYDWcVcDv6) |
+| Cognitive Psychology                  | Brunel University| 12 Hours | Psychology            | [Watch here](https://www.youtube.com/playlist?list=PLWMGRpO3yg6V8rnHZkXjt1qXt7Z1oI0TO) |
+| Introduction to Cognitive Science     | UC San Diego  | 16 Hours | Cognitive Science      | [Watch here](https://www.youtube.com/playlist?list=PLqIfqzB0uuf-uV9kg0R0M7zT2UpW80k7Y) |
+| Human Emotion                         | Yale          | 25 Hours | Psychology             | [Watch here](https://www.youtube.com/playlist?list=PLB802C82FF6BFEA44) |
+| Psychology of Learning                | Stanford      | 25 Hours | Psychology             | [Watch here](https://www.youtube.com/playlist?list=PLU4O8x0_Da2F8_cGRC7SLjDmb0BqY5NxL) |
 
 ### Advanced Level
 
 | Course Name                          | Institution   | Duration | Category               | Link                                                                 |
 |---------------------------------------|---------------|----------|------------------------|----------------------------------------------------------------------|
-| The Human Brain                       | MIT           | 20 Hours | Neuroscience           | [Watch here](https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP) |
-| Neuroplasticity and Behavior Change   | Stanford      | 32 Hours | Psychology             | [Watch here](https://www.youtube.com/playlist?list=PLPNW_gerXa4NKRk-x4U-Cuza8FPV8dx5x) |
-| Mental Health                         | Stanford      | 12 Hours |
+| Neuroscience                          | MIT           | 30 Hours | Neuroscience           | [Watch here](https://www.youtube.com/playlist?list=PL6D5C94D8B4857E4C) |
+| Cognitive Neuroscience                | Harvard       | 25 Hours | Neuroscience           | [Watch here](https://www.youtube.com/playlist?list=PL4A1E6C95EFDDF92A) |
+| Machine Learning for Psychology       | University of Toronto | 25 Hours | Psychology            | [Watch here](https://www.youtube.com/playlist?list=PLD8E14F4296E7D00D) |
+| Behavioral Economics                  | MIT           | 25 Hours | Economics              | [Watch here](https://www.youtube.com/playlist?list=PLg9esVacXkzYczOgcGpf5Iji38-BVQ1zs) |
+| Cognitive Development                 | Yale          | 18 Hours | Psychology             | [Watch here](https://www.youtube.com/playlist?list=PLB802C82FF6BFEA44) |
+| Decision Making and Behavioral Economics | University of California | 25 Hours | Psychology            | [Watch here](https://www.youtube.com/playlist?list=PLg9esVacXkzYczOgcGpf5Iji38-BVQ1zs) |
+
