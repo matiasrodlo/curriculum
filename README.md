@@ -22,12 +22,12 @@
 | Database Systems                      | Cornell       | 25 Hours | Database Management    | [Watch here](https://www.youtube.com/watch?v=4cWkVbC2bNE)            |
 | AWS Certified Solutions Architect     | Exampro       | 11 Hours | Cloud Computing        | [Watch here](https://www.youtube.com/watch?v=Ia-UEYYR44s)            |
 | Introduction to Electronics           | LWT College   | 16 Hours | Electronics & Hardware | [Watch here](https://www.youtube.com/watch?v=nb4ovfwqup8)            |
-| Arduino R4 WiFi                      | Paul McWhorter| 14 Hours | Electronics & Hardware | [Watch here](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex) |
-| Natural Language Processing**       | Stanford      | 25 Hours | Machine Learning       | [Watch here](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) |
-| Computer Architecture**             | Princeton     | 27 Hours | Computer Science       | [Watch here](https://www.youtube.com/watch?v=9nuAjYRbITQ)            |
-| Programming Paradigms**             | Stanford      | 22 Hours | Programming            | [Watch here](https://www.youtube.com/playlist?list=PL9D558D49CA734A02) |
-| Introduction to Probability for CS| Stanford      | 25 Hours | Mathematics            | [Watch here](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) |
-| Human-Computer Interaction        | Vermont       | 25 Hours | Interaction Design     | [Watch here](https://www.youtube.com/playlist?list=PLAuiGdPEdw0hhJ_XZUJrR9OeJoUgB1AiB) |
+| Arduino R4 WiFi                       | Paul McWhorter| 14 Hours | Electronics & Hardware | [Watch here](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex) |
+| Natural Language Processing           | Stanford      | 25 Hours | Machine Learning       | [Watch here](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) |
+| Computer Architecture                 | Princeton     | 27 Hours | Computer Science       | [Watch here](https://www.youtube.com/watch?v=9nuAjYRbITQ)            |
+| Programming Paradigms                 | Stanford      | 22 Hours | Programming            | [Watch here](https://www.youtube.com/playlist?list=PL9D558D49CA734A02) |
+| Introduction to Probability for CS    | Stanford      | 25 Hours | Mathematics            | [Watch here](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) |
+| Human-Computer Interaction            | Vermont       | 25 Hours | Interaction Design     | [Watch here](https://www.youtube.com/playlist?list=PLAuiGdPEdw0hhJ_XZUJrR9OeJoUgB1AiB) |
 
 ### Advanced Level
 
@@ -42,12 +42,14 @@
 | Advanced Algorithms                   | Harvard       | 25 Hours | Algorithms             | [Watch here](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) |
 | Mathematics for Computer Science      | MIT           | 25 Hours | Mathematics            | [Watch here](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) |
 | Theory of Computation                 | MIT           | 32 Hours | Theory of Computation  | [Watch here](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY) |
-| Automata and Complexity Theory    | Stanford      | 11 Hours | Theory of Computation  | [Watch here](https://www.youtube.com/playlist?list=PLoCMsyE1cvdV4CkdIZRKW8lk2BBOW-fbF) |
-| Operating Systems                 | UC Berkeley   | 38 Hours | Operating Systems      | [Watch here](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC) |
-| Brain-Computer Interface          | UC San Diego  | 9 Hours  | Neuroscience           | [Watch here](https://www.youtube.com/playlist?list=PLbbCsk7MUIGcO_lZMbyymWU2UezVHNaMq) |
-| Compilers                         | Stanford      | 14 Hours | Programming            | [Watch here](https://www.youtube.com/playlist?list=PLTsf9UeqkRebOYdw4uqSN0ugRShSmHrzH) |
-| Jetson Nano                       | Paul McWhorter| 45 Hours | Robotics               | [Watch here](https://www.youtube.com/playlist?list=PLGs0VKk2DiYxP-ElZ7-QXIERFFPkOuP4_) |
-| Raspberry Pi 4                         | Paul McWhorter| 45 Hours | Robotics               | [Watch here](https://www.youtube.com/playlist?list=PLGs0VKk2DiYxdMjCJmcP6jt4Yw6OHK85O) |
+| Automata and Complexity Theory        | Stanford      | 11 Hours | Theory of Computation  | [Watch here](https://www.youtube.com/playlist?list=PLoCMsyE1cvdV4CkdIZRKW8lk2BBOW-fbF) |
+| Operating Systems                     | UC Berkeley   | 38 Hours | Operating Systems      | [Watch here](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC) |
+| Brain-Computer Interface              | UC San Diego  | 9 Hours  | Neuroscience           | [Watch here](https://www.youtube.com/playlist?list=PLbbCsk7MUIGcO_lZMbyymWU2UezVHNaMq) |
+| Compilers                             | Stanford      | 14 Hours | Programming            | [Watch here](https://www.youtube.com/playlist?list=PLTsf9UeqkRebOYdw4uqSN0ugRShSmHrzH) |
+| Jetson Nano                           | Paul McWhorter| 45 Hours | Robotics               | [Watch here](https://www.youtube.com/playlist?list=PLGs0VKk2DiYxP-ElZ7-QXIERFFPkOuP4_) |
+| Raspberry Pi 4                        | Paul McWhorter| 45 Hours | Robotics               | [Watch here](https://www.youtube.com/playlist?list=PLGs0VKk2DiYxdMjCJmcP6jt4Yw6OHK85O) |
+| Applied Numerical Algorithms          | MIT           | 25 Hours | Mathematics            | [Watch here](https://www.youtube.com/playlist?list=PLQ3UicqQtfNv_Io_NT1b0Nzr9YDqpK3Lb) |
+| Linear Programming                    | U. Victoria   | 25 Hours | Mathematics            | [Watch here](https://www.youtube.com/playlist?list=PLU4IQLU9e_Or4YYmJvv0hs1BqibJY_YEI) |
 
 ---
 
@@ -57,20 +59,8 @@
 
 | Course Name                          | Institution   | Duration | Category               | Link                                                                 |
 |---------------------------------------|---------------|----------|------------------------|----------------------------------------------------------------------|
-| Introduction to Psychology            | Yale          | 19 Hours | Psychology             | [Watch here](https://www.youtube.com/playlist?list=PL6A08EB4EEFF3E91F) |
-| Social Psychology                     | UC Berkeley   | 21 Hours | Psychology             | [Watch here](https://www.youtube.com/playlist?list=PL82A8739615760555) |
-| Positive Psychology                   | Harvard       | 25 Hours | Psychology             | [Watch here](https://www.youtube.com/playlist?list=PLQXFX3DZGhzfHXhvcyXH6nV6qYxtbUnM2) |
-| Introduction to Cognitive Science     | UC San Diego  | 16 Hours | Cognitive Science      | [Watch here](https://www.youtube.com/playlist?list=PLqIfqzB0uuf-uV9kg0R0M7zT2UpW80k7Y) |
-| Human Emotion                         | Yale          | 25 Hours | Psychology             | [Watch here](https://www.youtube.com/playlist?list=PLB802C82FF6BFEA44) |
-| Psychology of Learning                | Stanford      | 25 Hours | Psychology             | [Watch here](https://www.youtube.com/playlist?list=PLU4O8x0_Da2F8_cGRC7SLjDmb0BqY5NxL) |
-
-### Advanced Level
-
-| Course Name                          | Institution   | Duration | Category               | Link                                                                 |
-|---------------------------------------|---------------|----------|------------------------|----------------------------------------------------------------------|
-| Neuroscience                          | MIT           | 30 Hours | Neuroscience           | [Watch here](https://www.youtube.com/playlist?list=PL6D5C94D8B4857E4C) |
-| Cognitive Neuroscience                | Harvard       | 25 Hours | Neuroscience           | [Watch here](https://www.youtube.com/playlist?list=PL4A1E6C95EFDDF92A) |
-| Machine Learning for Psychology       | University of Toronto | 25 Hours | Psychology            | [Watch here](https://www.youtube.com/playlist?list=PLD8E14F4296E7D00D) |
-| Behavioral Economics                  | MIT           | 25 Hours | Economics              | [Watch here](https://www.youtube.com/playlist?list=PLg9esVacXkzYczOgcGpf5Iji38-BVQ1zs) |
-| Cognitive Development                 | Yale          | 18 Hours | Psychology             | [Watch here](https://www.youtube.com/playlist?list=PLB802C82FF6BFEA44) |
-| Decision Making and Behavioral Economics | University of California | 25 Hours | Psychology            | [Watch here](https://www.youtube.com/playlist?list=PLg9esVacXkzYczOgcGpf5Iji38-BVQ1zs) |
+| Introduction to Psychology            | Yale          | 20 Hours | Psychology             | [Watch here](https://www.youtube.com/watch?v=f_jVsREneTQ)            |
+| Introduction to Cognitive Science     | MIT           | 25 Hours | Cognitive Science      | [Watch here](https://www.youtube.com/playlist?list=PLUl4u3cNGP63xgq4W5O4JzEn6e46zHEn9) |
+| Neuroscience for Beginners            | Harvard       | 12 Hours | Neuroscience           | [Watch here](https://www.youtube.com/watch?v=8p2p6T0mzpM)            |
+| Computational Neuroscience            | MIT           | 14 Hours | Neuroscience           | [Watch here](https://www.youtube.com/playlist?list=PLUl4u3cNGP62hVmLDm0X9GJrV38Dlt4Z5) |
+| Neural Networks and Deep Learning     | Stanford      | 25 Hours | Machine Learning       | [Watch here](https://www.youtube.com/playlist?list=PLHSE0mdBqdUHY-yqE6Qqci8z72J81wD2k) |
